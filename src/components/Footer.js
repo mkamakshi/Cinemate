@@ -10,7 +10,7 @@ export const Footer = () => {
             <a href="https://www.linkedin.com/in/kamakshimahadevan/" rel="noreferrer" target="_blank" className="hover:underline me-4 md:me-6">LinkedIn</a>
           </li>
           <li>
-            <a href="#" target="https://github.com/mkamakshi" rel="noreferrer" className="hover:underline">Github</a>
+            <a href="https://github.com/mkamakshi" target="_blank" rel="noreferrer" className="hover:underline">Github</a>
           </li>
         </ul>
      
